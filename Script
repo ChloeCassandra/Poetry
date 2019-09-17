@@ -2,9 +2,14 @@ from google.colab import files
 
 uploaded = files.upload()
 for fn in uploaded.keys():
-  text = uploaded[fn].decode('utf-8',errors="surrogateescape")
+    text = uploaded[fn].decode('utf-8',errors="surrogateescape")
   
-
+  import nltk
+  nltk.download('punkt')
+  
+  import nltk
+  nltk.download('brown')
+  
   import random
   from textblob import TextBlob
   
