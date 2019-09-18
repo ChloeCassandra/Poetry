@@ -19,6 +19,5 @@ The script also randomly generates different patterns each time, so I saved a fe
 <p>his
 <p>mortal life</p>
 
-I am proud with how this script came out.
+I am proud with how this script came out, and I had fun making it.
 When I saw the results of this poem, it ended up being more humorous than anticipated.
-At some points of this poem, depending on the text it generates, it means that it is getting us ready for the holiday season in an obscure way by parodizing the classic Charles Dickens novel.
